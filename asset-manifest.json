@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reactproject/static/css/main.4503ced1.css",
+    "main.js": "/Reactproject/static/js/main.d43fb370.js",
+    "static/media/video2.mp4": "/Reactproject/static/media/video2.7f3ddc1b2253cfa06181.mp4",
+    "static/media/video.mp4": "/Reactproject/static/media/video.4efcbe278d8d061270ed.mp4",
+    "static/media/bora.jpg": "/Reactproject/static/media/bora.20f9afb9c15f2d10faf8.jpg",
+    "index.html": "/Reactproject/index.html",
+    "main.4503ced1.css.map": "/Reactproject/static/css/main.4503ced1.css.map",
+    "main.d43fb370.js.map": "/Reactproject/static/js/main.d43fb370.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4503ced1.css",
+    "static/js/main.d43fb370.js"
+  ]
+}
